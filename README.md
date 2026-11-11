@@ -32,22 +32,23 @@ checks which layers are present and reads the fields inside them.
 ## Sample output
 
 ### First captured packet
-![First packet](codealphascreenshots/01-first-packet.png)
+![First packet](01-first-packet.png)
 
 ### Extracting IP addresses
-![IP addresses](codealphascreenshots/02-ip-addresses.png)
+![IP addresses](02-ip-addresses.png)
 
 ### Detecting protocols
-![Protocol detection](codealphascreenshots/03-protocol-detection.png)
+![Protocol detection](03-protocol-detection.png)
 
 ### Encrypted HTTPS payloads (unreadable)
-![HTTPS payload](codealphascreenshots/04-https-encrypted-payload.png)
+![HTTPS payload](04-https-encrypted-payload.png)
 
 ### Plain HTTP payload (readable request and response)
-![HTTP payload](codealphascreenshots/05-http-readable-payload.png)
+![HTTP payload](05-http-readable-payload.png)
 
 ### Summary after Ctrl+C
-![Summary](codealphascreenshots/06-summary.png)
+![Summary](06-summary.png)
+
 
 ## What I observed
 - HTTPS payloads look like random bytes because they are encrypted. Only
