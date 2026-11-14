@@ -32,22 +32,22 @@ checks which layers are present and reads the fields inside them.
 ## Sample output
 
 ### First captured packet
-![First packet](01-first-packet.png)
+![First packet](screenshots/01-first-packet.png)
 
 ### Extracting IP addresses
-![IP addresses](02-ip-addresses.png)
+![IP addresses](screenshots/02-ip-addresses.png)
 
 ### Detecting protocols
-![Protocol detection](03-protocol-detection.png)
+![Protocol detection](screenshots/03-protocol-detection.png)
 
 ### Encrypted HTTPS payloads (unreadable)
-![HTTPS payload](04-https-encrypted-payload.png)
+![HTTPS payload](screenshots/04-https-encrypted-payload.png)
 
 ### Plain HTTP payload (readable request and response)
-![HTTP payload](05-http-readable-payload.png)
+![HTTP payload](screenshots/05-http-readable-payload.png)
 
 ### Summary after Ctrl+C
-![Summary](codealphascreenshots/06-summary.png)
+![Summary](screenshots/06-summary.png)
 
 
 ## What I observed
