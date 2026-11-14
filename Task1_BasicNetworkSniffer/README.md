@@ -47,7 +47,7 @@ checks which layers are present and reads the fields inside them.
 ![HTTP payload](05-http-readable-payload.png)
 
 ### Summary after Ctrl+C
-![Summary](06-summary.png)
+![Summary](codealpha_screenshots/06-summary.png)
 
 
 ## What I observed
